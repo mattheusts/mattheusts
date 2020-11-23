@@ -8,5 +8,6 @@ Hi, I'm Matheus 👩‍💻.
 +  I am a web developer  with some experience with
 +  C ++, JavaScript, TypeScript, Python, HTML and CSS.
 ```
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthaw&layout=compact" />
+<p align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthaw&layout=compact" />
+</p>
