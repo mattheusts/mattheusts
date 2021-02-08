@@ -5,7 +5,7 @@
 
 +  I'm a back-end developer with experience in
 +  JavaScript, TypeScript, Python, HTML and CSS
-+  and in vacant times I like to play with C++ and rust..
++  and in vacant times I like to play with C/C++.
 ```
 
 <p align="center">
