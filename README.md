@@ -16,16 +16,10 @@
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
 <img align="left" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" />
-<br>
 <img align="left" width="26px" src="https://static.viget.com/_284x284_crop_center-center_none/mongo-logo.png?mtime=20200729151614&focal=none&tmtime=20200729151719" />
 <img align="left" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
 <img align="left" width="26px" src="https://img.icons8.com/color/452/firebase.png" />
 <img align="left" width="26px" src="https://appmasters.io/static/google-cloud-platform-logo-1548cb88200dbc04ca79a2447a0db447.png" />
-
-<br>
-<br>
-<br>
-<br>
 
 <hr>
 <p align="center">
