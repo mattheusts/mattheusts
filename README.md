@@ -10,7 +10,7 @@
 ### Languages and Tools:
 <img align="left" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/javascript.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/typescript.png" />
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" />
+<img align="left" width="26px" src="https://camo.githubusercontent.com/48c9507b62d83559dc3aef4f3951293b15ab2f5fa1029bdf6ec42f9fa062e775/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" width="26px" src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -20,6 +20,8 @@
 <img align="left" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
 <img align="left" width="26px" src="https://img.icons8.com/color/452/firebase.png" />
 <img align="left" width="26px" src="https://appmasters.io/static/google-cloud-platform-logo-1548cb88200dbc04ca79a2447a0db447.png" />
+
+<br><br>
 
 <hr>
 <p align="center">
