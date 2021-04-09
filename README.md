@@ -23,7 +23,6 @@
 
 <br><br>
 
-<hr>
 <p align="center">
    <i>How to reach me:</i>
    <br>
