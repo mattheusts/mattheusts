@@ -4,7 +4,7 @@
 Hello, I'm Matheus Teixeira, Student of Information Systems in UFES.
 
 I'm a back-end developer with experience in
-JavaScript, TypeScript, NodeJS, Python, HTML, CSS, MongoDB and PostgreSQL .
+JavaScript, TypeScript, NodeJS, Python, HTML, CSS, MongoDB and PostgreSQL.
 and in vacant times I like to play with C/C++.
 
 ### Languages and Tools:
@@ -31,7 +31,7 @@ and in vacant times I like to play with C/C++.
    <i>How to reach me:</i>
    <br>
 <br>
-<a target="_blank" href="https://www.linkedin.com/in/matheus-t-0a914b181"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/mattheusteixeira"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:matheusteixeiradossantoss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/Matthelstan"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
