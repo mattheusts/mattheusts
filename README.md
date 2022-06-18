@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, i'm Matheus</h1>
+<h1 align="center">Hi, i'm Matheus</h1>
 
 
 Hello, I'm Matheus Teixeira, Student of the Bachelor's Degree in Information Systems at the Federal University of Espírito Santo - UFES. I am highly curious, determined e I love to learn.
