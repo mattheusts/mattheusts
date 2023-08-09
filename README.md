@@ -28,6 +28,6 @@ Hello, I'm Matheus Teixeira, Student of the Bachelor's Degree in Information Sys
 <br />
 <br />
 <br />
-<a href="https://github.com/matthaw">
+<a href="https://github.com/mattheusts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattheusts&theme=github_dark&layout=compact" />
 </a>
