@@ -1,7 +1,10 @@
-<h1 align="center">Hi, i'm Matheus</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+i'm+Matheus+Teixeira;I+am+a+Full+Stack+developer" alt="Typing SVG" /></a>
+</div>
 
-
-Hello, I'm Matheus Teixeira, Student of the Bachelor's Degree in Information Systems at the Federal University of Espírito Santo - UFES. I am highly curious, determined e I love to learn.
+<p>
+  Hello! I'm a 24 year old software developer with solid professional experience in various technologies and frameworks. I am currently studying Information Systems at the Federal University of Espírito Santo (UFES). I have a strong motivation to use technology to solve problems and create a positive impact on people's lives. Please feel free to contact me.
+</p>
 
 #### Languages and Tools:
   <img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
