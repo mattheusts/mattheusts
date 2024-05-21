@@ -6,7 +6,7 @@
   Hello! I'm a 24 year old software developer with solid professional experience in various technologies and frameworks. I am currently studying Information Systems at the Federal University of Espírito Santo (UFES). I have a strong motivation to use technology to solve problems and create a positive impact on people's lives. Please feel free to contact me.
 </p>
 
-#### Languages and Tools:
+#### Technologies & Tools:
   <img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
